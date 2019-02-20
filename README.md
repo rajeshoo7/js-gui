@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo]()
-- [Source]()
+- [Demo](https://rajeshoo7.github.io/js-gui/)
+- [Source](https://github.com/rajeshoo7/js-gui)
 
 ## Requirements
 
